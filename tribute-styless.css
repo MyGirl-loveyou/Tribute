@@ -6,7 +6,7 @@ li {color: white; font-family: Rockwell; font-size: 24px }
 .link {color: #454545; text-align: center}
 .image {width: 250px; max-height: 500px}    
 .luv {color: #5e151a; text-align: center; font-size: 30px; font-weight: bold} 
-span {margin-left: 150px; font-weight: bold; font-size: 25px; width: 100%}
+span {margin-left: 0px; font-weight: bold; font-size: 25px; width: 100%}
 .footer {text-align: center; font-size: 20px; color:#f5f5f5 ;}
 .link {font-size: 20px; color:#f5f5f5 ; padding-top: 0px}
 .cap {font-size: 20px; margin-left: 0px}
